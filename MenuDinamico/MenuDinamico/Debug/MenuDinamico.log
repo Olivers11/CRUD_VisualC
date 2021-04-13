@@ -1,0 +1,11 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\olste\Desktop\MenuDinamico\MenuDinamico\CppCLR_WinformsProjekt.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\olste\Desktop\MenuDinamico\MenuDinamico\pch.cpp : message : vea la definición anterior de '__CLR_VER'
+C:\Users\olste\Desktop\MenuDinamico\MenuDinamico\CppCLR_WinformsProjekt.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40804300' para el encabezado precompilado pero no para la compilación actual
+  Productos.cpp
+C:\Users\olste\Desktop\MenuDinamico\MenuDinamico\Productos.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\olste\Desktop\MenuDinamico\MenuDinamico\pch.cpp : message : vea la definición anterior de '__CLR_VER'
+C:\Users\olste\Desktop\MenuDinamico\MenuDinamico\Productos.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40804300' para el encabezado precompilado pero no para la compilación actual
+  Generando código...
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  MenuDinamico.vcxproj -> C:\Users\olste\Desktop\MenuDinamico\Debug\MenuDinamico.exe
